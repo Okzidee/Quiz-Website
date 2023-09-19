@@ -8,4 +8,6 @@ You can also submit your score once you finish to keep track on the leaderboard.
 
 ## Links and Image
 
-Deployed Page: 
+Deployed Page: https://okzidee.github.io/Quiz-Website/
+
+![Quiz site](./image.png)
